@@ -6,6 +6,6 @@ The code in this repository is proprietary and protected by copyright law. Unaut
 - **Do Not Distribute:** You are not permitted to distribute this code, in whole or in part, to any third party.
 - **Do Not Use:** You are not permitted to use this code, in whole or in part, for any purpose without explicit permission from the owner.
 
-Any violation of these terms will be subject to legal action. If you have any questions or require permission, please contact the repository owner.
+If you have any questions or require permission, please contact the repository owner.
 
 Thank you for your cooperation.
