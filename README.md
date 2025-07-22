@@ -60,7 +60,10 @@ The goal of this project is to:
   - 5th percentile ≈ **$79.9**, 95th percentile ≈ **$275.7**
   - Possible closing prices ranged from **$37.25 to $462.95**
   
-  ![Distribution of Final Prices](images/fig_simulation_1000runs.png)
+  <div style="display: flex;align-items: center;">
+     <img src="images/fig_simulation_1000runs.png" alt="1000 runs of 50-Day Simulation" width="400"/>
+     <img src="images/fig_simulation_1000runs_dist.png" alt="Distribution of Final Prices" width="400"/>
+</div>
 ---
 
 ## 🧾 Conclusion
