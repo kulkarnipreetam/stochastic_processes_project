@@ -54,11 +54,13 @@ The goal of this project is to:
 ## 📊 Results & Visualizations
 
 - **Single 50-Day Simulation**: Showed both profit and loss opportunities.
+  ![50-Day Simulation](images/fig_simulation_50days.png)
 - **1000 Simulations**:
   - Mean final price ≈ **$161.94**
   - 5th percentile ≈ **$79.9**, 95th percentile ≈ **$275.7**
   - Possible closing prices ranged from **$37.25 to $462.95**
-
+  
+  ![Distribution of Final Prices](images/fig_simulation_1000runs.png)
 ---
 
 ## 🧾 Conclusion
